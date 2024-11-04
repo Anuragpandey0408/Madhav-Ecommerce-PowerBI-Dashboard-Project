@@ -1,6 +1,6 @@
 # Madhav Ecommerce PowerBI Dashboard
 
-![Dashboard Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUILFybzm7b18XSU17iwcxKHPb7PufJEk_E22AJ1t1XjLlZ2KCSJLWMl7_a4PztF1T0II&usqp=CAU)
+![Dashboard Banner](https://officeproinc.com/wp-content/uploads/2024/02/PowerBI_icon.jpeg)
 
 ## Project Overview
 The **Madhav Ecommerce PowerBI Dashboard** is a comprehensive data visualization project aimed at transforming raw ecommerce data into actionable insights. This project showcases my skills in data cleaning, analysis, and visualization, leveraging Microsoft Excel and PowerBI to create an interactive dashboard that supports data-driven decision-making.
